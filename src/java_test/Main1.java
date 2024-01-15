@@ -9,6 +9,7 @@ public class Main1 {
 		System.out.println("Hello!");
 		System.out.println("Salam!");
 		
+		System.out.println("Hi!");
 	}
 
 }
